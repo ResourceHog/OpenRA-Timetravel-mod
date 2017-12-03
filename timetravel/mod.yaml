@@ -11,6 +11,9 @@ Packages:
 Cursors:
 	timetravel|cursors.yaml
 	
+TileSets:
+	timetravel|tilesets/desert.yaml
+
 
 Assemblies:
 	common|OpenRA.Mods.Common.dll
