@@ -1,0 +1,86 @@
+MapFormat: 11
+
+RequiresMod: timetravel
+
+Title: Shellmap
+
+Author: Resourcehog
+
+Tileset: DESERT
+
+MapSize: 130,130
+
+Bounds: 1,1,128,128
+
+Visibility: Shellmap
+
+Categories: Shellmap
+
+Players:
+	PlayerReference@Neutral:
+		Name: Neutral
+		OwnsWorld: True
+		NonCombatant: True
+		Faction: england
+	PlayerReference@Creeps:
+		Name: Creeps
+		NonCombatant: True
+		Faction: england
+
+Actors:
+	Actor0: mcv
+		Owner: Neutral
+		Location: 47,22
+		Facing: 92
+	Actor1: mcv
+		Owner: Neutral
+		Location: 37,21
+		Facing: 92
+	Actor2: mcv
+		Owner: Neutral
+		Location: 30,21
+		Facing: 92
+	Actor3: mcv
+		Owner: Neutral
+		Location: 29,26
+		Facing: 92
+	Actor4: mcv
+		Owner: Neutral
+		Location: 36,28
+		Facing: 92
+	Actor5: mcv
+		Owner: Neutral
+		Location: 45,28
+		Facing: 92
+	Actor6: mcv
+		Owner: Neutral
+		Location: 43,23
+		Facing: 92
+	Actor7: mcv
+		Owner: Neutral
+		Location: 42,18
+		Facing: 92
+	Actor8: mcv
+		Owner: Neutral
+		Location: 34,17
+		Facing: 92
+	Actor9: mcv
+		Owner: Neutral
+		Location: 34,22
+		Facing: 92
+	Actor10: mcv
+		Owner: Neutral
+		Location: 39,27
+		Facing: 92
+	Actor11: mcv
+		Owner: Neutral
+		Location: 40,33
+		Facing: 92
+	Actor12: mcv
+		Owner: Neutral
+		Location: 33,30
+		Facing: 92
+	Actor13: mcv
+		Owner: Neutral
+		Location: 34,26
+		Facing: 92
